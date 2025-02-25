@@ -10,5 +10,6 @@ public class MataKuliah06 {
         this.sks = sks;
         this.jumlahJam = jumlahJam;
     }
+
 }
 
